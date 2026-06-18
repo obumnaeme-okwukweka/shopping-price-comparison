@@ -1,1 +1,1 @@
-# shopping-price-comparison
+school-shopping-comparison
